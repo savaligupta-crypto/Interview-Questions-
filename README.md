@@ -16,3 +16,5 @@ JavaScript = The functionality and automation (switches, appliances, security sy
 
 Interview One-Liner
 HTML creates the structure of a webpage, CSS styles its appearance, and JavaScript adds interactivity and dynamic behavior, allowing users to interact with the website effectively.
+
+
