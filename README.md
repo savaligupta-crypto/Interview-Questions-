@@ -18,3 +18,17 @@ Interview One-Liner
 HTML creates the structure of a webpage, CSS styles its appearance, and JavaScript adds interactivity and dynamic behavior, allowing users to interact with the website effectively.
 
 
+2:- What is SVG ?
+   It is made of mathematical shapes and lines. 
+   SVG stores drawing instructions. It can be resized without becoming blurry.
+
+3:-Browser and Search engine
+   BROWSER-It is used to open and view websites.
+   Example: Google Chrome, Mozilla Firefox, Microsoft Edge
+
+   SEARCH ENGINE-It is a service used to find information on the internet.
+   Example: Google Search, Yahoo
+
+4:- ID and Class
+    ID- It is Used for one unique element and appears only once on a page.Selected with # in CSS.
+    CLASS- It is Used for multiple elements and can be reused.Selected with . in CSS.
