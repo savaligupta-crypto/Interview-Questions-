@@ -32,3 +32,13 @@ HTML creates the structure of a webpage, CSS styles its appearance, and JavaScri
 4:- ID and Class
     ID- It is Used for one unique element and appears only once on a page.Selected with # in CSS.
     CLASS- It is Used for multiple elements and can be reused.Selected with . in CSS.
+
+5:- ICONS 
+    Opening and closing angle bracket - <>
+    back tick- `
+    colon- :
+    semi colon- ;
+    forward slash- /
+    backward slash- \
+    hypon- -
+    underscore- _
